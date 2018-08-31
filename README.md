@@ -1,0 +1,2 @@
+# Mobile-learn-memorandum
+Mobile関連で色々試したり忘れないようメモ的なアレで置いておくためのところ
